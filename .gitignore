@@ -1,0 +1,7 @@
+# Project exclude paths
+/cloud-consumerconsul-order80/target/
+/cloud-consumeropenfeign-order80/target/
+/cloud-consumetzk-order80/target/
+/cloud-provider-payment8002/target/
+/cloud-provider-payment8004/target/
+/cloud-providerconsul-payment8006/target/
